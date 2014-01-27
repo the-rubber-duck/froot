@@ -1,7 +1,7 @@
 froot
 =====
 
-A frooty Java data scrambler! And we know that's not how you spell fruit.
+A frooty Java data scrambler! And we know that's *not* how you spell fruit.
 
 ### But what is it?
 
